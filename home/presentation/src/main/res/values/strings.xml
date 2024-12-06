@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_weather">Weather Information for %s, %s</string>
+    <string name="weather">Weather</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="visibility">Visibility</string>
+    <string name="wind">Wind</string>
+    <string name="sunset_sunrise">Sunrise/Sunset</string>
+    <string name="sea_level">Sea Level</string>
+    <string name="ground_level">Ground Level</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="min_max_temperature_name">Min/Max Temperature</string>
+    <string name="temperature_description">%s°C (Feels like %s°C)</string>
+    <string name="min_max_temperature">%s°C / %s°C</string>
+    <string name="pressure_description">%s hPa</string>
+    <string name="humidity_description">%s %%</string>
+    <string name="sea_level_description">%s m</string>
+    <string name="ground_level_description">%s m</string>
+    <string name="wind_speed_description">%s m/s</string>
+    <string name="sunset_sunrise_description">%s / %s</string>
+    <string name="search">Search</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="clear_search">Clear search</string>
+    <string name="weather_app">Weather App</string>
+    <string name="error">Error</string>
+    <string name="retry">Try again</string>
+    <string name="no_results_found">No results found</string>
+</resources>
